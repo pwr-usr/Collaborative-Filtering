@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code, data, and report for the ST312 Group Project titled "Comparative Analysis of Collaborative Filtering Algorithms on MovieLens 100K Dataset". The project aims to explore and compare the performance of various collaborative filtering algorithms, specifically matrix factorisation and Transformer-based models, on the MovieLens 100K dataset.
+This repository contains the code, data, and report for the Project titled "Comparative Analysis of Collaborative Filtering Algorithms on MovieLens 100K Dataset". The project aims to explore and compare the performance of various collaborative filtering algorithms, specifically matrix factorisation and Transformer-based models, on the MovieLens 100K dataset.
 
 ## Table of Contents
 
